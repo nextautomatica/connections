@@ -4,6 +4,7 @@
     "welcome": "Welcome to Guide to Probates AI assistant, how can I help you today?",
     "defaultactions": "[button sell house] [button free book] [button contact]",
     "description": "Marc Cornier Realestate Professional",
+    "backgroundImage": "https://guidetoprobate.com/wp-content/uploads/2021/04/marcC.jpg",
     "placeholder": "How can I help you today?",
     "outputpath": "text"
   }
