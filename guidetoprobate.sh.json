@@ -2,6 +2,7 @@
   "https://raw.githubusercontent.com/nextautomatica/connections/main/guidetoprobate.sh": {
     "title": "Guide to Probate",
     "welcome": "Welcome to Guide to Probates AI assistant, how can I help you today?",
+    "defaultactions": "[button sell house] [button free book] [button contact]",
     "description": "Marc Cornier Realestate Professional",
     "placeholder": "How can I help you today?",
     "outputpath": "text"
