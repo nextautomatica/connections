@@ -1,0 +1,11 @@
+{
+  "https://raw.githubusercontent.com/nextautomatica/connections/main/guidetoprobate.sh": {
+    "title": "Sarah",
+    "welcome": "Welcome, Im Sarah, how can I help you today?",
+    "defaultactions": "[button sell house] [button free book] [button contact]",
+    "description": "Sarah",
+    "backgroundImage": "https://replicate.delivery/pbxt/Lk5CrhoiYB5VKdNFeVEm7hv7dNelejO7GAH9rX7JaOjTCQWkA/out-0.png",
+    "placeholder": "How can I help you today?",
+    "outputpath": "text"
+  }
+}
